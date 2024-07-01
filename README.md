@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Parminder Singh
 - 👀 I’m interested in PHP projects
-- 🌱 I’m currently learning Vue JS with laravel 
+- 🌱 I’m Exploring New in Vue JS with laravel 
 - 📫 Connect me with email "Talktoparminder@gmail.com"
 
 <!---
