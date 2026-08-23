@@ -1,10 +1,10 @@
 # Hi, I'm Parminder Singh 👋
 
-### Senior PHP / Laravel Developer | SaaS Builder | AI Explorer
+### Senior PHP / Laravel Developer | SaaS Builder | AI-Powered Developer
 
 I'm a software developer focused on building scalable **SaaS products, CRM platforms, multi-tenant applications, business management systems, and API-driven solutions**.
 
-I primarily work with **PHP and Laravel**, while continuously exploring modern technologies such as **Vue.js, AI-assisted development, ChatGPT, and Google Antigravity**.
+I primarily work with **PHP and Laravel**, while using modern technologies and **AI-powered development tools** to design architectures, accelerate development, solve complex problems, and turn ideas into working products quickly.
 
 ---
 
@@ -15,10 +15,13 @@ I primarily work with **PHP and Laravel**, while continuously exploring modern t
 - 🔐 Experienced with **multi-tenant Laravel applications**
 - 📊 Building **CRM and business management systems**
 - 🔌 Working with **REST APIs and third-party integrations**
-- 🌱 Currently exploring **Vue.js with Laravel**
-- 🤖 Exploring **AI-powered software development**
-- 🧠 Working with **ChatGPT, AI coding tools, and local AI models**
-- ⚡ Exploring **Google Antigravity** for modern AI-assisted development
+- 🌱 Currently working with **Vue.js and Laravel**
+- 🤖 Using **AI as part of the software development process**
+- 🧠 Using **ChatGPT and AI coding tools** for architecture, development, debugging, and problem solving
+- ⚡ Using AI to **rapidly build projects and convert ideas into working applications**
+- 🏗️ Using AI to help design **application architecture, database structures, APIs, and development plans**
+- ⚡ Working with **Google Antigravity** for AI-assisted development
+- 🦙 Working with **Ollama and local AI models**
 - ☁️ Comfortable with **Linux, Nginx, Cloudflare, Git, and deployment workflows**
 - 🔧 Interested in automation, scalable architecture, integrations, and developer productivity
 
@@ -38,6 +41,8 @@ I enjoy building SaaS products that solve real business problems, including:
 - Workflow and automation systems
 - Client and customer management systems
 - Reporting and analytics platforms
+- Booking and scheduling systems
+- Business portals
 
 ### Laravel Applications
 
@@ -53,6 +58,8 @@ I enjoy building SaaS products that solve real business problems, including:
 - Email systems
 - PDF generation
 - Admin panels
+- Webhooks
+- API integrations
 
 ---
 
@@ -76,6 +83,7 @@ I enjoy building SaaS products that solve real business problems, including:
 
 ### Database & Infrastructure
 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -89,20 +97,34 @@ I enjoy building SaaS products that solve real business problems, including:
 
 ---
 
-## 🤖 AI & Modern Development
+## 🤖 AI-Powered Development
 
-I'm actively exploring how AI can improve the way software is designed, developed, tested, and maintained.
+AI is part of my development workflow and helps me move faster from **idea to architecture to working software**.
+
+I use AI for:
+
+- 🏗️ Application architecture planning
+- 🗄️ Database structure and relationship design
+- 🔌 API and integration planning
+- 📐 Feature and module planning
+- 💻 Code generation and implementation
+- 🐛 Debugging and troubleshooting
+- ♻️ Code refactoring
+- 🧪 Testing and validation
+- 📚 Understanding existing codebases
+- ⚡ Rapid prototyping and development
+- 🔄 Automating repetitive development tasks
+- 🚀 Turning business requirements into working applications
+
+### AI Tools
 
 - 🤖 **ChatGPT**
 - ⚡ **Google Antigravity**
-- 🧠 AI-assisted coding
-- 🛠️ AI developer workflows
 - 🦙 **Ollama**
-- 💻 Local AI models
-- 🔄 AI-powered automation
-- 🚀 AI integration into SaaS applications
+- 💻 AI coding tools
+- 🧠 Local AI models
 
-I'm particularly interested in combining **AI + Laravel + SaaS** to build smarter business applications and development workflows.
+My focus is on using AI to **build software faster, prepare architecture quickly, and reduce the time from an idea to a working product**.
 
 ---
 
@@ -120,17 +142,19 @@ I have experience working with different types of integrations, including:
 - Third-party business APIs
 - CRM integrations
 - Automation workflows
+- External SaaS integrations
 
 ---
 
-## 🏗️ Architecture Interests
+## 🏗️ Architecture
 
-My development interests include:
+My development experience and interests include:
 
 - Multi-tenant architecture
 - SaaS architecture
 - RESTful API design
 - Role-based access control
+- Permission systems
 - Scalable database design
 - Background jobs and queues
 - Caching
@@ -138,18 +162,42 @@ My development interests include:
 - API integrations
 - Cloud deployments
 - Automation
-- AI-assisted development
+- AI-assisted architecture planning
 
 ---
 
-## 📌 Currently Exploring
+## ⚡ Rapid Development
+
+I use a combination of **Laravel, modern development tools, automation, and AI** to rapidly turn ideas and business requirements into working software.
+
+This allows me to:
+
+- Understand requirements quickly
+- Prepare application architecture
+- Plan database structures
+- Design APIs and modules
+- Build functional features quickly
+- Test and debug faster
+- Iterate rapidly
+- Prepare projects for production
+
+The goal is simple:
+
+> **Build faster, architect better, and deliver working software quickly.**
+
+---
+
+## 📌 Current Focus
 
 ```text
 Laravel + Vue.js
-Laravel + AI
-SaaS Architecture
+SaaS Development
 Multi-Tenant Applications
+Application Architecture
 AI-Assisted Development
-Local AI Models
+AI-Powered SaaS
+Rapid Product Development
+REST APIs
+Third-Party Integrations
 Developer Automation
-Scalable APIs
+Local AI Models
